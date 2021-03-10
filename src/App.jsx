@@ -1,7 +1,5 @@
-import './styles/global.css';
+import './styles/global.scss';
 
 export function App() {
-    throw new Error('Eita Giovana, o farninho caiu!');
-
     return <h1>Hello ReactJs</h1>
 }
